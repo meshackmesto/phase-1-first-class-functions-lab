@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2024-03-23T22:21:58.899Z",
-    "end": "2024-03-23T22:21:59.274Z",
-    "duration": 375
+    "start": "2024-03-24T05:40:33.390Z",
+    "end": "2024-03-24T05:40:33.891Z",
+    "duration": 501
   },
   "tests": [
     {
@@ -62,7 +62,7 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareDoubler() is a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -157,7 +157,7 @@
     {
       "title": "is a function",
       "fullTitle": "index.js fareDoubler() is a function",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },

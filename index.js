@@ -25,19 +25,3 @@ const returnLastTwoDrivers = function  (drivers){
       const selectDifferentDrivers = function (drivers, driversToReturn) {
         return driversToReturn(drivers);
       };
-
-
-
-
-
-
-
-
-
-//--const returnFirstTwoDrivers = function (drivers) {
-  //  return drivers.slice(0,2);
-//}
-//const returnLastTwoDrivers = function  (drivers) {
- //   return drivers.slice(-2);
-//}
-//let selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers];
